@@ -1,5 +1,5 @@
 puts " ==================================="
-puts "|port mapping auto connecter Ver 0.1|"
+puts "|port mapping auto connector Ver 0.1|"
 puts " ==================================="
 init = 100
 puts "Do you need x mapping? y,n:"
