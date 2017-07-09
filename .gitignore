@@ -2,3 +2,4 @@
 .auto_ssh_x.sh
 ssh_smbd.sh
 .autossh.rb
+.ipcheck.rb
