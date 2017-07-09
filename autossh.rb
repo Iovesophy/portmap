@@ -7,7 +7,7 @@ ans = gets.chomp.to_s
 if ans == "y"
  puts "Ok! start x mapping. init complete!"
 
- system("xport DISPLAY=''")
+ system("export DISPLAY=''")
  init.times do |i|
         puts i
         system("sh .auto_ssh_x.sh")
